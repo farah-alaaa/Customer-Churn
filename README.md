@@ -40,7 +40,3 @@ pip install matplotlib seaborn pandas scikit-learn numpy
 
 ---
 
-## Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MariamYasser9/Customer_Churn
