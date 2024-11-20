@@ -37,6 +37,3 @@ To run this project, ensure you have the following libraries installed:
 
 ```bash
 pip install matplotlib seaborn pandas scikit-learn numpy
-
----
-
